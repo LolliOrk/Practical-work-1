@@ -2,3 +2,4 @@ string 1
 Merge with conflict
 Pull
 Pull with conflict
+Stash it
